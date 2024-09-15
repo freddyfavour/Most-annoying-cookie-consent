@@ -4,7 +4,7 @@ This is a playful website designed to simulate an annoying cookie consent banner
 
 ## 🚀 Live Demo
 
-Check out the live version [here](https://cookies-jade.vercel.app/).
+Check out the live version on this [website](https://cookies-jade.vercel.app/).
 
 ## 📜 Features
 
